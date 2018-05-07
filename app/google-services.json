@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "109910183252",
+    "firebase_url": "https://commonstorage-mobitz.firebaseio.com",
+    "project_id": "commonstorage-mobitz",
+    "storage_bucket": "commonstorage-mobitz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109910183252:android:ba20d0c8b292b6fe",
+        "android_client_info": {
+          "package_name": "com.mobitz.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109910183252-a2j297cgj5u4v2j0nrdsqpnr9sdqeuuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobitz.firebaseauthentication",
+            "certificate_hash": "e051f6a6f76e56b8b22c35a31c689e254374eabc"
+          }
+        },
+        {
+          "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j2TSqTBpQ-9meYwte-FINd78AvkNNi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109910183252:android:808df7897fe8065c",
+        "android_client_info": {
+          "package_name": "com.mobitz.firebaseuserregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109910183252-147pr766annrfuio35n416r4nm1rvbfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobitz.firebaseuserregistration",
+            "certificate_hash": "e051f6a6f76e56b8b22c35a31c689e254374eabc"
+          }
+        },
+        {
+          "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j2TSqTBpQ-9meYwte-FINd78AvkNNi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109910183252:android:023bec599c8404e1",
+        "android_client_info": {
+          "package_name": "com.mobitz.kidsmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109910183252-20n01ro7sk4qgrm4b07mku8ed3oe6u7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobitz.kidsmaths",
+            "certificate_hash": "e051f6a6f76e56b8b22c35a31c689e254374eabc"
+          }
+        },
+        {
+          "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j2TSqTBpQ-9meYwte-FINd78AvkNNi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109910183252:android:7c44e7bdae2ff38c",
+        "android_client_info": {
+          "package_name": "com.ticket.ferry.ferrynav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109910183252-mbi2vfj3n8ar3rj8h03ikmjk9hb97fjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticket.ferry.ferrynav",
+            "certificate_hash": "e051f6a6f76e56b8b22c35a31c689e254374eabc"
+          }
+        },
+        {
+          "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j2TSqTBpQ-9meYwte-FINd78AvkNNi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109910183252-3fg32ionbg0vd7cph6ojcutlh4v6l66d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
